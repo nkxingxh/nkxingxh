@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Self Introduction
-Just a student who ***loves coding***.
+Just a bro who ***loves coding***.
 
 PHP is the best language in the world!
 
