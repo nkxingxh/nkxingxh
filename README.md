@@ -7,7 +7,9 @@ PHP is the best language in the world!
 
 ### Links
 
-My homepage: [www.nkxingxh.top](https://www.nkxingxh.top)
+Homepage: [www.nkxingxh.top](https://www.nkxingxh.top)
+
+Blog: [blog.nkxingxh.top](https://blog.nkxingxh.top)
 
 ### Overall Status
 ![Stats](https://github-readme-stats.vercel.app/api?username=nkxingxh&show_icons=true&icon_color=990000&title_color=990000)    
